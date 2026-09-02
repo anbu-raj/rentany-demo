@@ -1,0 +1,43 @@
+[
+  {
+    "id": "usr_001",
+    "name": "Arjun Mehta",
+    "email": "arjun.m@example.com",
+    "phone": "+91 98450 12345",
+    "role": "renter",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "location": "Koramangala, Bengaluru",
+    "rating": 4.95,
+    "reviewsCount": 18,
+    "memberSince": "Jan 2024"
+  },
+  {
+    "id": "usr_002",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "phone": "+91 97412 88901",
+    "role": "owner",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+    "location": "Indiranagar, Bengaluru",
+    "rating": 4.98,
+    "reviewsCount": 62,
+    "responseTime": "< 15 mins",
+    "memberSince": "Oct 2023",
+    "bio": "Commercial photographer and tech enthusiast in Bengaluru. Renting out idle studio equipment and gadgets in mint condition."
+  },
+  {
+    "id": "usr_003",
+    "name": "Rahul Verma",
+    "email": "rahul.v@example.com",
+    "phone": "+91 98111 22334",
+    "role": "renter",
+    "verified": true,
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+    "location": "HSR Layout, Bengaluru",
+    "rating": 4.85,
+    "reviewsCount": 9,
+    "memberSince": "Mar 2024"
+  }
+]

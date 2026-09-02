@@ -1,0 +1,87 @@
+[
+  {
+    "id": "conv_001",
+    "listingId": "lst_001",
+    "listingTitle": "Sony Alpha A7 IV Full-Frame Camera",
+    "participant": {
+      "id": "usr_002",
+      "name": "Priya Nair",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "role": "Owner",
+      "status": "online"
+    },
+    "lastMessage": "Sounds great! The camera is fully charged and ready with both batteries for pickup tomorrow.",
+    "lastMessageTime": "10:45 AM",
+    "unread": false,
+    "rentalId": "rnt_001",
+    "messages": [
+      {
+        "id": "msg_001",
+        "senderId": "usr_001",
+        "text": "Hi Priya, quick question — does the kit include an SD card reader or should I bring my own?",
+        "timestamp": "10:32 AM",
+        "isMe": true
+      },
+      {
+        "id": "msg_002",
+        "senderId": "usr_002",
+        "text": "Hi Arjun! Yes, I include an Anker USB-C high speed UHS-II card reader inside the Lowepro bag compartment.",
+        "timestamp": "10:38 AM",
+        "isMe": false
+      },
+      {
+        "id": "msg_003",
+        "senderId": "usr_001",
+        "text": "Awesome! I'll be coming around 4 PM to the 100ft road landmark you mentioned.",
+        "timestamp": "10:40 AM",
+        "isMe": true
+      },
+      {
+        "id": "msg_004",
+        "senderId": "usr_002",
+        "text": "Sounds great! The camera is fully charged and ready with both batteries for pickup tomorrow.",
+        "timestamp": "10:45 AM",
+        "isMe": false
+      }
+    ]
+  },
+  {
+    "id": "conv_002",
+    "listingId": "lst_003",
+    "listingTitle": "PlayStation 5 + 2 Controllers",
+    "participant": {
+      "id": "usr_003",
+      "name": "Rahul Verma",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "role": "Renter",
+      "status": "offline"
+    },
+    "lastMessage": "Hey! Can I pick up around 6:30 PM after my office hours?",
+    "lastMessageTime": "Yesterday",
+    "unread": true,
+    "rentalId": "rnt_003",
+    "messages": [
+      {
+        "id": "msg_101",
+        "senderId": "usr_003",
+        "text": "Hello, sent a booking request for the weekend. Is Spider-Man 2 updated to the latest patch?",
+        "timestamp": "Yesterday 4:10 PM",
+        "isMe": false
+      },
+      {
+        "id": "msg_102",
+        "senderId": "usr_001",
+        "text": "Yes, updated today and all ready to play right out of the box!",
+        "timestamp": "Yesterday 4:25 PM",
+        "isMe": true
+      },
+      {
+        "id": "msg_103",
+        "senderId": "usr_003",
+        "text": "Hey! Can I pick up around 6:30 PM after my office hours?",
+        "timestamp": "Yesterday 5:02 PM",
+        "isMe": false
+      }
+    ]
+  }
+]

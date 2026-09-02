@@ -1,0 +1,80 @@
+:root {
+  /* Colors from Stitch Design System */
+  --color-primary: #006565;
+  --color-primary-container: #008080;
+  --color-on-primary: #ffffff;
+  --color-on-primary-container: #e3fffe;
+  --color-primary-fixed: #93f2f2;
+  --color-primary-fixed-dim: #76d6d5;
+  --color-inverse-primary: #76d6d5;
+
+  --color-secondary: #5f5e5e;
+  --color-secondary-container: #e2dfde;
+  --color-on-secondary: #ffffff;
+  --color-on-secondary-container: #636262;
+
+  --color-tertiary: #575b5b;
+  --color-tertiary-container: #6f7373;
+  --color-on-tertiary: #ffffff;
+
+  --color-surface: #f9f9ff;
+  --color-surface-dim: #d3daea;
+  --color-surface-bright: #f9f9ff;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-low: #f0f3ff;
+  --color-surface-container: #e7eefe;
+  --color-surface-container-high: #e2e8f8;
+  --color-surface-container-highest: #dce2f3;
+  --color-surface-variant: #dce2f3;
+  
+  --color-on-surface: #151c27;
+  --color-on-surface-variant: #3e4949;
+  --color-on-background: #151c27;
+  --color-background: #f9f9ff;
+
+  --color-outline: #6e7979;
+  --color-outline-variant: #bdc9c8;
+
+  --color-error: #ba1a1a;
+  --color-error-container: #ffdad6;
+  --color-on-error: #ffffff;
+
+  --color-success: #16a34a;
+  --color-success-container: #dcfce7;
+  --color-warning: #d97706;
+  --color-warning-container: #fef3c7;
+
+  /* Typography */
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  
+  /* Spacing */
+  --space-2xs: 2px;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --container-max: 1280px;
+
+  /* Border Radius */
+  --radius-xs: 4px;
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 24px;
+  --radius-full: 9999px;
+
+  /* Ambient Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 32, 32, 0.04);
+  --shadow-1: 0 2px 6px rgba(0, 32, 32, 0.06);
+  --shadow-2: 0 6px 16px rgba(0, 32, 32, 0.09);
+  --shadow-3: 0 12px 32px rgba(0, 32, 32, 0.14);
+  --shadow-focus: 0 0 0 3px rgba(0, 128, 128, 0.25);
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}

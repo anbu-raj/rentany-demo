@@ -1,0 +1,319 @@
+.pageContainer {
+  padding-top: var(--space-lg);
+  padding-bottom: var(--space-3xl);
+}
+
+.backLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-primary-container);
+  margin-bottom: var(--space-sm);
+}
+
+.pageTitle {
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--color-on-surface);
+}
+
+.pageSubtitle {
+  font-size: 15px;
+  color: var(--color-secondary);
+  margin-bottom: var(--space-xl);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: var(--space-2xl);
+  align-items: flex-start;
+}
+
+.leftCol {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.card {
+  background-color: var(--color-surface-container-lowest);
+  border-radius: var(--radius-xl);
+  padding: var(--space-xl);
+  border: 1px solid var(--color-surface-container-high);
+  box-shadow: var(--shadow-sm);
+}
+
+.cardTitle {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-on-surface);
+  margin-bottom: var(--space-md);
+}
+
+/* Logistics Grid */
+.logisticsGrid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.logisticsItem {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-md);
+}
+
+.logisticsIconWrap {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-md);
+  background-color: rgba(0, 128, 128, 0.1);
+  color: var(--color-primary-container);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.logisticsLabel {
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--color-secondary);
+  display: block;
+  letter-spacing: 0.05em;
+  margin-bottom: 2px;
+}
+
+.hint {
+  font-size: 12px;
+  color: var(--color-secondary);
+  margin-top: 2px;
+}
+
+/* Payment Options */
+.paymentOptions {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.paymentOption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-md);
+  border-radius: var(--radius-lg);
+  border: 1.5px solid var(--color-outline-variant);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.paymentOption:hover {
+  border-color: var(--color-primary-container);
+  background-color: var(--color-surface-container-low);
+}
+
+.optionSelected {
+  border-color: var(--color-primary-container) !important;
+  background-color: rgba(0, 128, 128, 0.04) !important;
+}
+
+.optionRadio {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.optionRadio input {
+  accent-color: var(--color-primary-container);
+}
+
+.upiInputBox {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: var(--space-md);
+  background-color: var(--color-surface-container-low);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-outline-variant);
+}
+
+.upiInputBox label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-on-surface);
+}
+
+.upiInputBox input {
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-outline-variant);
+  font-size: 14px;
+}
+
+.upiInputBox input:focus {
+  outline: none;
+  border-color: var(--color-primary-container);
+}
+
+.upiNote {
+  font-size: 11px;
+  color: var(--color-secondary);
+}
+
+/* Policy & Terms */
+.policyList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--color-on-surface-variant);
+  line-height: 1.5;
+  padding-left: 20px;
+  margin-bottom: var(--space-md);
+}
+
+.termsCheckbox {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-sm);
+  font-size: 13px;
+  color: var(--color-on-surface);
+  cursor: pointer;
+  padding-top: var(--space-sm);
+  border-top: 1px solid var(--color-surface-container);
+}
+
+.termsCheckbox input {
+  margin-top: 3px;
+  accent-color: var(--color-primary-container);
+}
+
+.termsCheckbox a {
+  color: var(--color-primary-container);
+  font-weight: 600;
+}
+
+/* Summary Right Column */
+.rightCol {
+  position: sticky;
+  top: 90px;
+}
+
+.summaryCard {
+  background-color: var(--color-surface-container-lowest);
+  border-radius: var(--radius-2xl);
+  padding: var(--space-xl);
+  border: 1px solid var(--color-outline-variant);
+  box-shadow: var(--shadow-2);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.summaryTitle {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--color-on-surface);
+}
+
+.itemSnippet {
+  display: flex;
+  gap: var(--space-md);
+}
+
+.snippetImg {
+  width: 72px;
+  height: 72px;
+  border-radius: var(--radius-md);
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.snippetDetails {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.snippetCategory {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--color-primary-container);
+  text-transform: uppercase;
+}
+
+.snippetTitle {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.snippetLoc {
+  font-size: 12px;
+  color: var(--color-secondary);
+}
+
+.summaryDivider {
+  border: none;
+  height: 1px;
+  background-color: var(--color-surface-container-high);
+}
+
+.summaryRows {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.summaryRow {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: var(--color-on-surface-variant);
+}
+
+.summaryTotalRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-top: var(--space-sm);
+  border-top: 1px dashed var(--color-outline-variant);
+}
+
+.depositNote {
+  display: block;
+  font-size: 11px;
+  color: var(--color-secondary);
+  font-weight: 400;
+}
+
+.totalValue {
+  font-size: 22px;
+  color: var(--color-primary-container);
+}
+
+.securitySeal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-size: 12px;
+  color: var(--color-secondary);
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+  .rightCol {
+    position: static;
+  }
+}

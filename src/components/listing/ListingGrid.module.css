@@ -1,0 +1,27 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-lg);
+  width: 100%;
+}
+
+.emptyState {
+  padding: var(--space-3xl) var(--space-lg);
+  text-align: center;
+  background-color: var(--color-surface-container-low);
+  border-radius: var(--radius-xl);
+  border: 1px dashed var(--color-outline-variant);
+  grid-column: 1 / -1;
+}
+
+.emptyTitle {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-on-surface);
+  margin-bottom: var(--space-xs);
+}
+
+.emptySubtitle {
+  font-size: 14px;
+  color: var(--color-secondary);
+}

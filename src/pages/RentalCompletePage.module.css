@@ -1,0 +1,140 @@
+.completePage {
+  padding-top: var(--space-2xl);
+  padding-bottom: var(--space-3xl);
+  display: flex;
+  justify-content: center;
+}
+
+.completeCard {
+  max-width: 620px;
+  width: 100%;
+  background-color: var(--color-surface-container-lowest);
+  border-radius: var(--radius-2xl);
+  padding: var(--space-2xl);
+  border: 1px solid var(--color-surface-container-high);
+  box-shadow: var(--shadow-2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.iconCircle {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background-color: var(--color-success-container);
+  color: var(--color-success);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: var(--space-md);
+}
+
+.heading {
+  font-size: 26px;
+  font-weight: 800;
+  color: var(--color-on-surface);
+  letter-spacing: -0.02em;
+  margin-top: var(--space-sm);
+  margin-bottom: var(--space-xs);
+}
+
+.subheading {
+  font-size: 15px;
+  color: var(--color-on-surface-variant);
+  margin-bottom: var(--space-xl);
+}
+
+.refundBox {
+  width: 100%;
+  background: linear-gradient(135deg, rgba(22, 163, 74, 0.08), rgba(22, 163, 74, 0.02));
+  border: 1px solid rgba(22, 163, 74, 0.25);
+  border-radius: var(--radius-xl);
+  padding: var(--space-lg);
+  margin-bottom: var(--space-xl);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.refundHeader {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--color-success);
+  letter-spacing: 0.06em;
+}
+
+.refundAmount {
+  font-size: 36px;
+  font-weight: 900;
+  color: var(--color-success);
+  margin: 4px 0;
+}
+
+.refundNotice {
+  font-size: 13px;
+  color: var(--color-secondary);
+}
+
+.reviewSection {
+  width: 100%;
+  padding: var(--space-lg);
+  background-color: var(--color-surface-container-low);
+  border-radius: var(--radius-xl);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-md);
+  margin-bottom: var(--space-xl);
+}
+
+.reviewTitle {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.starRow {
+  display: flex;
+  gap: 8px;
+}
+
+.starBtn {
+  color: var(--color-outline-variant);
+  cursor: pointer;
+  transition: transform var(--transition-fast);
+}
+
+.starBtn:hover {
+  transform: scale(1.15);
+}
+
+.starFilled {
+  color: #f59e0b !important;
+  fill: #f59e0b;
+}
+
+.reviewInput {
+  width: 100%;
+  padding: var(--space-md);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-outline-variant);
+  font-size: 14px;
+  background-color: var(--color-surface-container-lowest);
+  font-family: inherit;
+}
+
+.reviewInput:focus {
+  outline: none;
+  border-color: var(--color-primary-container);
+}
+
+.bottomActions {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  width: 100%;
+}

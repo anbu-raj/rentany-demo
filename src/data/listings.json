@@ -1,0 +1,302 @@
+[
+  {
+    "id": "lst_001",
+    "title": "Sony Alpha A7 IV Full-Frame Mirrorless Camera",
+    "category": "cameras",
+    "categoryLabel": "Cameras & Lenses",
+    "tagline": "33MP Exmor R sensor, 4K 60p, perfect for weddings, YouTube, and fashion photography.",
+    "description": "Mint condition Sony A7 IV ready for production gigs. Includes two high-capacity batteries, 128GB Sony Tough SD Card (V90 300MB/s), dual charger, and comfortable peak design neck strap. Sensor is completely spotless and calibrated.",
+    "pricePerDay": 1499,
+    "securityDeposit": 12000,
+    "rating": 4.95,
+    "reviewsCount": 38,
+    "location": {
+      "neighborhood": "Indiranagar",
+      "city": "Bengaluru",
+      "distance": "1.8 km away"
+    },
+    "ownerId": "usr_002",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1000&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": [
+      { "label": "Sensor", "value": "33MP Full-Frame Exmor R CMOS" },
+      { "label": "Video", "value": "4K 60p 10-bit 4:2:2" },
+      { "label": "Lens Mount", "value": "Sony E-Mount" },
+      { "label": "Stabilization", "value": "5-Axis In-Body (IBIS)" }
+    ],
+    "included": [
+      "Sony A7 IV Body with body cap",
+      "2x NP-FZ100 Rechargeable Batteries",
+      "Sony Dual Channel Fast Charger",
+      "SanDisk Extreme Pro 128GB V90 Card",
+      "Lowepro Weatherproof Camera Bag"
+    ],
+    "instantBooking": true,
+    "featured": true,
+    "unavailableDates": ["2026-09-12", "2026-09-13", "2026-09-14"]
+  },
+  {
+    "id": "lst_002",
+    "title": "DJI Mini 4 Pro Fly More Combo (DJI RC 2)",
+    "category": "drones",
+    "categoryLabel": "Drones",
+    "tagline": "Sub-249g lightweight drone with omnidirectional obstacle sensing and 4K HDR video.",
+    "description": "Ultimate lightweight drone for cinematic travel and real-estate footage. Comes with 3 intelligent flight batteries giving 90+ minutes total airtime, ND filters set, and DJI RC 2 controller with built-in high brightness screen.",
+    "pricePerDay": 1850,
+    "securityDeposit": 15000,
+    "rating": 4.92,
+    "reviewsCount": 24,
+    "location": {
+      "neighborhood": "Koramangala 4th Block",
+      "city": "Bengaluru",
+      "distance": "3.4 km away"
+    },
+    "ownerId": "usr_002",
+    "images": [
+      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?w=1000&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": [
+      { "label": "Weight", "value": "249 grams" },
+      { "label": "Max Flight Time", "value": "34 mins per battery" },
+      { "label": "Video Resolution", "value": "4K/60fps HDR, True Vertical" },
+      { "label": "Transmission", "value": "20km FHD (O4)" }
+    ],
+    "included": [
+      "DJI Mini 4 Pro Drone",
+      "DJI RC 2 Controller with screen",
+      "3x Intelligent Flight Batteries",
+      "Two-Way Charging Hub",
+      "ND Filter Set (ND16/64/256)",
+      "Shoulder Bag"
+    ],
+    "instantBooking": true,
+    "featured": true,
+    "unavailableDates": ["2026-09-08"]
+  },
+  {
+    "id": "lst_003",
+    "title": "Sony PlayStation 5 Disc Edition + 2 DualSense Controllers",
+    "category": "gaming",
+    "categoryLabel": "Gaming Consoles",
+    "tagline": "Next-gen 4K 120Hz console with ultra-high speed SSD and 5 pre-installed top titles.",
+    "description": "Ready for weekend LAN parties and gaming marathons. Loaded with FC 24, Spider-Man 2, God of War Ragnarok, Gran Turismo 7, and Mortal Kombat 1. Includes two spotless controllers and high-speed HDMI 2.1 cable.",
+    "pricePerDay": 899,
+    "securityDeposit": 8000,
+    "rating": 4.88,
+    "reviewsCount": 47,
+    "location": {
+      "neighborhood": "HSR Layout Sector 1",
+      "city": "Bengaluru",
+      "distance": "5.1 km away"
+    },
+    "ownerId": "usr_002",
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=1000&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": [
+      { "label": "Storage", "value": "825GB Custom NVMe SSD" },
+      { "label": "Output", "value": "4K 120Hz / 8K Support" },
+      { "label": "Audio", "value": "Tempest 3D AudioTech" },
+      { "label": "Haptics", "value": "Adaptive Triggers" }
+    ],
+    "included": [
+      "PS5 Disc Console",
+      "2x DualSense Wireless Controllers",
+      "HDMI 2.1 High Speed Cable",
+      "Power cord & USB-C charging cables",
+      "Protective Hard Carrying Case"
+    ],
+    "instantBooking": true,
+    "featured": true,
+    "unavailableDates": []
+  },
+  {
+    "id": "lst_004",
+    "title": "RØDE Wireless PRO Dual Compact Microphone System",
+    "category": "audio",
+    "categoryLabel": "Audio & Podcast",
+    "tagline": "32-bit float on-board recording, timecode, and unmatched audio fidelity.",
+    "description": "Industry-standard wireless audio set for filmmakers, content creators, and interviewers. 32-bit float ensures your audio never clips, even in loud environments. Compatible with cameras, iPhones, and Android via USB-C.",
+    "pricePerDay": 650,
+    "securityDeposit": 5000,
+    "rating": 4.96,
+    "reviewsCount": 19,
+    "location": {
+      "neighborhood": "Domlur",
+      "city": "Bengaluru",
+      "distance": "2.2 km away"
+    },
+    "ownerId": "usr_002",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=1000&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": [
+      { "label": "Channels", "value": "Dual-channel receiver & 2 transmitters" },
+      { "label": "Recording", "value": "32-bit Float Internal Backup" },
+      { "label": "Range", "value": "Up to 260m line-of-sight" },
+      { "label": "Battery", "value": "Up to 7 hours + Smart Case" }
+    ],
+    "included": [
+      "2x TX Transmitters + 1x RX Receiver",
+      "Smart Charge Case",
+      "2x Lavalier II Professional Microphones",
+      "Magnetic clips & windshields",
+      "3.5mm TRS and USB-C connecting cables"
+    ],
+    "instantBooking": false,
+    "featured": false,
+    "unavailableDates": ["2026-09-05", "2026-09-06"]
+  },
+  {
+    "id": "lst_005",
+    "title": "Quechua Arpenaz 4.1 Fresh & Black Family Camping Tent",
+    "category": "camping",
+    "categoryLabel": "Outdoor & Camping",
+    "tagline": "4-person tent with 1 pre-assembled bedroom and high-ceiling living space.",
+    "description": "Escape to Coorg or Chikmagalur with this premium thermal blackout tent. Keeps inside 17°C cooler in direct sun and blocks 99% of daylight for peaceful morning sleep. Tested against tropical rain and winds.",
+    "pricePerDay": 550,
+    "securityDeposit": 3500,
+    "rating": 4.82,
+    "reviewsCount": 31,
+    "location": {
+      "neighborhood": "Whitefield",
+      "city": "Bengaluru",
+      "distance": "11.2 km away"
+    },
+    "ownerId": "usr_002",
+    "images": [
+      "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1000&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1510312305653-8ed496efae75?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": [
+      { "label": "Capacity", "value": "4 Persons" },
+      { "label": "Bedroom Size", "value": "240 x 210 cm" },
+      { "label": "Living Area", "value": "5 sqm standing height (1.9m)" },
+      { "label": "Waterproofing", "value": "Tropical rain tested (2000 mm)" }
+    ],
+    "included": [
+      "Pre-assembled 4.1 Tent in carry bag",
+      "Ground pegs & guy ropes",
+      "Inflatable queen airbed + foot pump",
+      "2x Rechargeable camping lanterns"
+    ],
+    "instantBooking": true,
+    "featured": false,
+    "unavailableDates": []
+  },
+  {
+    "id": "lst_006",
+    "title": "Sigma 24-70mm f/2.8 DG DN Art Lens (Sony E-Mount)",
+    "category": "cameras",
+    "categoryLabel": "Cameras & Lenses",
+    "tagline": "Razor sharp standard zoom lens with constant f/2.8 aperture for full frame.",
+    "description": "The workhorse lens for Sony shooters. Incredible clarity from corner to corner with creamy bokeh. Clean glass, smooth zoom action, and supplied with a high quality B+W UV filter attached.",
+    "pricePerDay": 750,
+    "securityDeposit": 8000,
+    "rating": 4.97,
+    "reviewsCount": 28,
+    "location": {
+      "neighborhood": "Indiranagar",
+      "city": "Bengaluru",
+      "distance": "1.8 km away"
+    },
+    "ownerId": "usr_002",
+    "images": [
+      "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=1000&auto=format&fit=crop&q=80"
+    ],
+    "specs": [
+      { "label": "Focal Length", "value": "24-70mm" },
+      { "label": "Max Aperture", "value": "f/2.8" },
+      { "label": "Diaphragm", "value": "11-blade rounded" },
+      { "label": "Weight", "value": "830g" }
+    ],
+    "included": [
+      "Sigma 24-70mm f/2.8 Art Lens",
+      "Lens Hood & Front/Rear caps",
+      "B+W 82mm UV Protection Filter",
+      "Padded lens pouch"
+    ],
+    "instantBooking": true,
+    "featured": false,
+    "unavailableDates": []
+  },
+  {
+    "id": "lst_007",
+    "title": "Bosch Professional Cordless Hammer Drill & Impact Driver Set",
+    "category": "tools",
+    "categoryLabel": "Tools & Equipment",
+    "tagline": "Heavy duty 18V brushless motor tool kit for home DIY and studio builds.",
+    "description": "Save yourself from buying tools you only need for a weekend project. Drills smoothly into reinforced concrete, brick, hardwood, and metal. Includes 40-piece bits set and 2 fast-charge 4.0Ah batteries.",
+    "pricePerDay": 420,
+    "securityDeposit": 3000,
+    "rating": 4.79,
+    "reviewsCount": 15,
+    "location": {
+      "neighborhood": "Jayanagar 4th Block",
+      "city": "Bengaluru",
+      "distance": "6.8 km away"
+    },
+    "ownerId": "usr_002",
+    "images": [
+      "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=1000&auto=format&fit=crop&q=80"
+    ],
+    "specs": [
+      { "label": "Voltage", "value": "18V Lithium-Ion" },
+      { "label": "Torque", "value": "Up to 50 Nm" },
+      { "label": "Chuck Capacity", "value": "1.5 - 13 mm keyless" }
+    ],
+    "included": [
+      "Bosch GSB 18V Combi Drill",
+      "Bosch GDR 18V Impact Driver",
+      "2x 4.0Ah ProCORE18V Batteries + Charger",
+      "40-Piece Masonry & Driver Bits Case",
+      "Bosch L-BOXX Heavy Duty Tool Case"
+    ],
+    "instantBooking": true,
+    "featured": false,
+    "unavailableDates": []
+  },
+  {
+    "id": "lst_008",
+    "title": "Nebula Capsule 3 Laser 1080p Smart Mini Projector",
+    "category": "electronics",
+    "categoryLabel": "Electronics & Displays",
+    "tagline": "Pocket-sized 120-inch cinema display with Android TV and built-in battery.",
+    "description": "Turn your living room or terrace into a movie theater. Crystal clear laser brightness, autofocus, keystone correction, and built-in 8W Dolby speaker. Stream Netflix, Prime, or connect via HDMI to your laptop/Nintendo Switch.",
+    "pricePerDay": 800,
+    "securityDeposit": 7000,
+    "rating": 4.91,
+    "reviewsCount": 22,
+    "location": {
+      "neighborhood": "Koramangala 5th Block",
+      "city": "Bengaluru",
+      "distance": "3.1 km away"
+    },
+    "ownerId": "usr_002",
+    "images": [
+      "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1000&auto=format&fit=crop&q=80"
+    ],
+    "specs": [
+      { "label": "Brightness", "value": "300 ANSI Lumens Laser" },
+      { "label": "Resolution", "value": "1080p FHD (1920x1080)" },
+      { "label": "Battery Life", "value": "2.5 Hours movie playtime" },
+      { "label": "Audio", "value": "8W Dolby Digital Speaker" }
+    ],
+    "included": [
+      "Nebula Capsule 3 Laser Projector",
+      "Remote Control with Batteries",
+      "Adjustable Aluminum Tripod Stand",
+      "Power Adapter & 2m USB-C Cable",
+      "Travel Sleeve Case"
+    ],
+    "instantBooking": true,
+    "featured": true,
+    "unavailableDates": ["2026-09-03", "2026-09-04"]
+  }
+]

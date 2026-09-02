@@ -1,0 +1,48 @@
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 600;
+  border-radius: var(--radius-full);
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.sm {
+  padding: 2px 8px;
+  font-size: 11px;
+}
+
+.md {
+  padding: 4px 10px;
+  font-size: 12px;
+}
+
+.teal {
+  background-color: rgba(0, 128, 128, 0.12);
+  color: var(--color-primary);
+}
+
+.green {
+  background-color: var(--color-success-container);
+  color: var(--color-success);
+}
+
+.amber {
+  background-color: var(--color-warning-container);
+  color: var(--color-warning);
+}
+
+.gray {
+  background-color: var(--color-surface-container-high);
+  color: var(--color-secondary);
+}
+
+.red {
+  background-color: var(--color-error-container);
+  color: var(--color-error);
+}
+
+.icon {
+  flex-shrink: 0;
+}
